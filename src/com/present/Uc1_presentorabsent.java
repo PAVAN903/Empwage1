@@ -1,6 +1,6 @@
 package com.present;
 
-public class Uc1 {
+public class Uc1_presentorabsent {
 
 	public static void main(String[] args) {
 		
